@@ -22,5 +22,3 @@ var geocodeAddress = (address, callback) => {
 };
 
 module.exports.geocodeAddress = geocodeAddress;
-//84bc488c974102da7f1aa405f65e541b
-//https://api.darksky.net/forecast/84bc488c974102da7f1aa405f65e541b/40.6356505,-80.0639035
